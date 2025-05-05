@@ -34,11 +34,11 @@ TELKOM UNIVERSITY PURWOKERTO
 ## A. Soal Nomor 1
 
 MENAMBAHKAN JSON DESERIALIZATION 1
-Buatlah branch baru dengan nama branch “irpan” dan checkout kesana.
-A. Download file “jurnal7_1_2211104075.json” dan rename file tersebut dengan mengganti “nim”
+Buatlah branch baru dengan nama branch “naufal” dan checkout kesana.
+A. Download file “jurnal7_1_2211104073.json” dan rename file tersebut dengan mengganti “nim”
 dengan NIM praktikan kemudian pindahkan file json tersebut di folder solution projectnya.
 B. Ganti isi dari file json tersebut dengan detail yang benar dari praktikan.
-C. Buatlah sebuah file class baru dengan nama “DataMahasiswa<2211104075_PRAKTIKAN>”.
+C. Buatlah sebuah file class baru dengan nama “DataMahasiswa<2211104073_PRAKTIKAN>”.
 D. Buat method “ReadJSON() yang melakukan parsing untuk file tersebut menjadi object
 sesuai.
 E. Pada method tersebut, lakukan print hasil deserialisasi dari object yang dibuat dengan
@@ -47,11 +47,11 @@ format bebas asalkan semua nilai ditampilkan di console/output.
 ## A. Soal Nomor 2
 
 MENAMBAHKAN JSON DESERIALIZATION 2
-Buatlah branch baru dengan nama branch “irpan” dan checkout kesana.
-A. Download file “jurnal7_2_2211104075.json” dan rename file tersebut dengan mengganti “nim”
+Buatlah branch baru dengan nama branch “naufal” dan checkout kesana.
+A. Download file “jurnal7_2_2211104073.json” dan rename file tersebut dengan mengganti “nim”
 dengan NIM praktikan kemudian pindahkan file json tersebut di folder solution projectnya.
 B. Ubah isi dari file json tersebut dengan daftar anggota kelompok (untuk tubes).
-C. Buatlah sebuah file class baru dengan nama “TeamMembers<2211104075_PRAKTIKAN>”.
+C. Buatlah sebuah file class baru dengan nama “TeamMembers<2211104073_PRAKTIKAN>”.
 D. Buat method “ReadJSON() yang melakukan parsing untuk file tersebut menjadi object
 sesuai.
 E. Pada method tersebut, lakukan print hasil deserialisasi dari object yang dibuat dengan
