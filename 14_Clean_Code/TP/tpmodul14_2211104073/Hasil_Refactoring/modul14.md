@@ -13,6 +13,7 @@ function main(){const halo = new HaloGeneric();const namaPanggilan="Naufal";halo
 
 main();
 ```
+
 # Refactoring Kode JavaScript
 
 ## Masalah dalam Kode Asli
