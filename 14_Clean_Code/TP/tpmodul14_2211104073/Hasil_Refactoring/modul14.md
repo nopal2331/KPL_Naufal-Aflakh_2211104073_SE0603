@@ -108,6 +108,11 @@ main();
 
 ---
 
+# Output
+![Image](https://github.com/user-attachments/assets/a30d0cd2-ba1e-4798-ac49-f6c4ef52d9c7)
+
+Kode menghasilkan pesan yang benar, yaitu **"Halo user Naufal"**, yang menunjukkan bahwa refactoring tidak mempengaruhi fungsionalitas kode, hanya memperbaiki struktur dan keterbacaan kode.
+
 # Kesimpulan
 
 Melalui **refactoring** kode ini, kita telah memperbaiki beberapa masalah penting dalam penulisan kode JavaScript:
